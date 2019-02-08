@@ -1,8 +1,0 @@
-<html>
-	<head>
-	</head>
-	<body>
-		<h1>Hello Wörldi</h1>
-		<p>Dis is of Rubenz</p>
-	</body>
-</html>
